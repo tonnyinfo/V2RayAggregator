@@ -1,3 +1,2 @@
-  - {name: 🇺🇸 美国 V2CROSS.COM, server: helpful-possum.rooster465.autos, port: 443, type: trojan, password: WG39087154, sni: helpful-possum.rooster465.autos, skip-cert-verify: false}
-  - {name: 🇷🇺 俄罗斯 V2CROSS.COM, server: 91.243.81.101, port: 443, type: trojan, password: WG39087154, sni: still-mastodon.rooster465.autos, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 V2CROSS.COM 2, server: 45.135.228.211, port: 443, type: trojan, password: IQ68037294, sni: endless-kiwi.rooster465.autos, skip-cert-verify: false}
+  - {name: 🇺🇸 美国 CloudFlare节点, server: 104.18.16.56, port: 443, type: trojan, password: VPNCUSTOMIZE, sni: ww.gameserver.de5.net, skip-cert-verify: false}
+  - {name: 🇬🇧 英国 Technicolor SA, server: oplosgru-c.catcat321.com, port: 20066, type: trojan, password: ba07a8af-5544-48ac-ab62-3b6c00a44fa6, sni: hk.catxstar.com, skip-cert-verify: false}
