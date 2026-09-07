@@ -1,9 +1,6 @@
-  - {name: 🇺🇸 美国 得克萨斯州达拉斯Cloudflare Warp节点, server: 8.6.112.0, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 CloudFlare节点, server: ip.myip2.qzz.io, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 CloudFlare节点 2, server: 104.16.174.22, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 CloudFlare节点 3, server: 104.16.174.12, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 CloudFlare节点 4, server: 104.16.174.37, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 CloudFlare节点 5, server: 104.18.152.140, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 CloudFlare节点 6, server: 104.18.152.143, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 CloudFlare节点 7, server: 104.18.152.50, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 CloudFlare节点 8, server: 104.18.12.149, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, skip-cert-verify: false}
+  - {name: 🇺🇸 美国 CloudFlare节点, server: 104.21.33.59, port: 443, type: trojan, password: humanity, sni: www.pleadcourt.org, skip-cert-verify: false}
+  - {name: 🇺🇸 美国 CloudFlare节点 2, server: 104.18.152.229, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, skip-cert-verify: false}
+  - {name: 🇱🇹 立陶宛 V2CROSS.COM, server: 89.116.180.49, port: 443, type: trojan, password: f18d6149-e214-8554-e737-f7523c8b2eea, sni: 0403.infinityconfig4.workers.dev, skip-cert-verify: false}
+  - {name: 🇺🇸 美国 CloudFlare节点 3, server: 104.16.174.36, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, skip-cert-verify: false}
+  - {name: 🇺🇸 美国 CloudFlare节点 4, server: 104.16.174.71, port: 443, type: trojan, password: humanity, sni: www.ignitelimit.com, skip-cert-verify: false}
+  - {name: 🇺🇸 美国 CloudFlare节点 5, server: 104.21.4.176, port: 443, type: trojan, password: Telegram_healer_config, sni: 5Er0m2i2eNS2uLpg7SJd45UGqS.87fcvT2k11501YnO2TXm6yw-miPJ2Kr.worKerS.deV, skip-cert-verify: false}
